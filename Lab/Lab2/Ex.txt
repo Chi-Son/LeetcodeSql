@@ -1,0 +1,24 @@
+________________________________________
+🎯 Giả sử bạn có bảng sau:
+Customers(id, name)
+
+Orders(id, customer_id, total_amount) 
+
+Từ câu 3 : Bảng thêm
+Products(id, name, price)
+
+OrderItems(order_id, product_id, quantity)
+
+Từ câu 5: Tình huống nhân viên quản lý lẫn nhau
+Employees(id, name, manager_id)
+________________________________________
+🧠 Bài tập:
+Bài 1:Liệt kê tên khách hàng cùng với tổng số tiền đơn hàng của họ.
+Bài 2:Liệt kê tất cả khách hàng, nếu chưa có đơn hàng thì để total_amount là NULL.
+Bài 3:Liệt kê tên khách hàng, tên sản phẩm họ đã mua, và số lượng
+Bài 4:Liệt kê mỗi khách hàng đã mua bao nhiêu sản phẩm (tổng quantity).
+Bài 5:Liệt kê tất cả các sản phẩm, kể cả sản phẩm chưa từng được mua.
+Bài 6:Liệt kê tên nhân viên và tên người quản lý trực tiếp.
+Bài 7:Liệt kê tất cả các khách hàng đã từng mua sản phẩm giá > 500, kèm tên khách hàng, tên sản phẩm, số lượng.
+Bài 8:Tìm khách hàng chi tiêu nhiều nhất, cho biết tổng tiền họ đã mua hàng.
+Bài 9:Xếp hạng khách hàng theo tổng chi tiêu từ cao xuống thấp.
