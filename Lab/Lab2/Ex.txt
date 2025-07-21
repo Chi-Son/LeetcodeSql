@@ -17,7 +17,7 @@ Bài 1:Liệt kê tên khách hàng cùng với tổng số tiền đơn hàng c
 Bài 2:Liệt kê tất cả khách hàng, nếu chưa có đơn hàng thì để total_amount là NULL.
 Bài 3:Liệt kê tên khách hàng, tên sản phẩm họ đã mua, và số lượng
 Bài 4:Liệt kê mỗi khách hàng đã mua bao nhiêu sản phẩm (tổng quantity).
-Bài 5:Liệt kê tất cả các sản phẩm, kể cả sản phẩm chưa từng được mua.
+Bài 5:Liệt kê tất cả các sản phẩm và số lượng được mua, kể cả sản phẩm chưa từng được mua null =0.
 Bài 6:Liệt kê tên nhân viên và tên người quản lý trực tiếp.
 Bài 7:Liệt kê tất cả các khách hàng đã từng mua sản phẩm giá > 500, kèm tên khách hàng, tên sản phẩm, số lượng.
 Bài 8:Tìm khách hàng chi tiêu nhiều nhất, cho biết tổng tiền họ đã mua hàng.
